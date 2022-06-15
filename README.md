@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Eric Sherrill @eric-sherrill-devo Staff Software Engineer for Key Client Engagements at Devo
+- 👋 Hi, I’m Eric Sherrill @eric-sherrill-devo Staff Software Engineer for Key Client Engagements at Devo @DevoInc
 - 👀 I’m interested in cloud, Linux, logging, monitoring, observability, security, and of course... Devo!
 - 🌱 I’m currently learning the Devo Platform and onboarding at the new job!
 - 💞️ I’m looking to collaborate on solving Devo customer issues
