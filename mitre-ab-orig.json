@@ -1,0 +1,62 @@
+{
+    "pagination": false,
+    "paginationAutoPageSize": true,
+    "paginationPageSize": 100,
+    "topEnabled": false,
+    "topRowLimits": 10,
+    "fieldOrder": "alert",
+    "typeSort": "desc",
+    "columnDefs": [
+      {
+        "headerName": "MITRE Tactic",
+        "field": "MITRE_Tactic",
+        "sortable": true,
+        "resizable": true,
+        "filter": true,
+        "width": null,
+        "sort": null,
+        "hide": false,
+        "cellRenderer": null,
+        "cellRendererParams": {
+          "formatValues": [],
+          "patternLink": "$value",
+          "clickAction": "NONE"
+        },
+        "formatValues": []
+      },
+      {
+        "headerName": "Domains Installed",
+        "field": "domains_installed",
+        "sortable": true,
+        "resizable": true,
+        "filter": true,
+        "width": null,
+        "sort": null,
+        "hide": false,
+        "cellRenderer": null,
+        "cellRendererParams": {
+          "formatValues": [],
+          "patternLink": "$value",
+          "clickAction": "NONE"
+        },
+        "formatValues": []
+      }
+      {
+        "headerName": "Alert Domains",
+        "field": "alert_domain",
+        "sortable": true,
+        "resizable": true,
+        "filter": true,
+        "width": null,
+        "sort": null,
+        "hide": false,
+        "cellRenderer": null,
+        "cellRendererParams": {
+          "formatValues": [],
+          "patternLink": "$value",
+          "clickAction": "NONE"
+        },
+        "formatValues": []
+      }
+    ]
+  }
